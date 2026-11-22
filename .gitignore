@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.spyproject/
+.vscode/
+result_*.jpg
+masque.jpg
+data/graffiti_nb.jpg
